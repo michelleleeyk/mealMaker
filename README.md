@@ -1,4 +1,4 @@
-# mealMaker
+# Meal Maker
 Simple project to practice JavaScript Objects. </br>
 This program allows users to input their favorite dishes, and it will generate a random meal consisting of an appetizer, main course and dessert.
 
