@@ -7,4 +7,4 @@ console.log(menu.generateRandomMeal());
 
 ### Future Plans
 Could be interesting to categorise dishes based on their cuisines, allowing users to generate a random meal based on their cravings. </br>
-Would be nice as a web app with simple UI
+Would be nice as a web app with simple UI. Can even embed links to the respective recipes of the dishes.
