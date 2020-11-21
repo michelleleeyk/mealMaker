@@ -54,7 +54,7 @@ const menu = {
   }
 }
 
-// run code
+// add dishes to menu
 menu.addDishToCourse("appetizers", "spring rolls", 2);
 menu.addDishToCourse("appetizers", "satay", 3);
 menu.addDishToCourse("appetizers", "dumplings", 3);
@@ -63,6 +63,3 @@ menu.addDishToCourse("mains", "fried rice", 4);
 menu.addDishToCourse("mains", "chicken rice", 5);
 menu.addDishToCourse("desserts", "jelly", 1);
 menu.addDishToCourse("desserts", "red bean soup", 1);
-
-let meal = menu.generateRandomMeal();
-console.log(meal);
